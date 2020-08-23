@@ -1,6 +1,6 @@
 # Week 4 Course Project
 
-This repo contains an analysis script (run_analysis.R) that performs the operations described in the getting and cleaning data course project and a codebook that describes the variables and summaries calculated.
+This repo contains an analysis script (run_analysis.R) that performs the operations described in the getting and cleaning data course project and a codebook (CODEBOOK.md) that describes the variables and summaries calculated.
 
 The analysis script is designed to work when the user has their working directory set such that they can access the data files in the “UCI HAR Dataset” folder.
 
